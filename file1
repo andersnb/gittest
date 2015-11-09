@@ -1,0 +1,8 @@
+asdf
+PATH=/Users/andersnb:/opt/bin:`echo $PATH`:/usr/local/mysql/bin:
+
+alias enscript="/usr/local/bin/enscript -2Gr --margins=:::80 -P florida_scd_ucar_edu"
+
+
+
+
